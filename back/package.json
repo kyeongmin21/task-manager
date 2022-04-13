@@ -289,6 +289,7 @@
     "minipass": "^3.1.6",
     "mkdirp": "^0.5.6",
     "module-alias": "^2.2.2",
+    "mongoose": "^6.2.10",
     "mrmime": "^1.0.0",
     "ms": "^2.0.0",
     "multicast-dns": "^7.2.4",
